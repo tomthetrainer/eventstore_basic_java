@@ -53,6 +53,7 @@ Some steps you could follow after running this in codespaces could be.
  Included in the top level directory are the resources you need
  1. A PDF [Instructions For Running in CodeSpaces](CodeSpacesInstructions.pdf)of the steps needed to launch codespaces
  2. A PDF [Instructions For Running Locally](InstructionsForRunningLocally.pdf) describing how to run locally, that includes step by step details on how we built the project
+ 3. A PDF [Running the Java Code](RunningTheJavaCode.pdf)
 
 
 # Most of all have fun, and once you know how to write an EVENT From Scratch you will be ready to cook up all sorts of tasty and more advanced recipes
