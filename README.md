@@ -23,7 +23,9 @@ The From Scracth cotent intends to provide EVERYTHING you need to get started in
 
 Upon successful completion of your "From Scratch" projects, you can continue practicing with the examples located at https://github.com/EventStore/samples.
 
-In particular, the [Quickstart examples](https://GitHub.com/EventStore/samples/tree/main/Quickstart){:target="_blank"} contain more thorough examples, and include content referencing Go, Spring Boot, and Rust.
+In particular, the [Quickstart examples](https://GitHub.com/EventStore/samples/tree/main/Quickstart) contain more thorough examples, and include content referencing Go, Spring Boot, and Rust.
+
+In particular, the <a href="https://GitHub.com/EventStore/samples/tree/main/Quickstart" target="_blank">Quickstart examples</a> contain more thorough examples, and include content referencing Go, Spring Boot, and Rust.
 
 # Using this repo
 
