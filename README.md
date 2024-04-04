@@ -2,7 +2,7 @@
 # <code style="color : green">Java edition</code>
 
 Cook up your own tasty recipes by following the following examples in the "FromScratch" series:
-1. dotnet
+1. .NET
 2. Node.js
 3. Python
 4. Java
