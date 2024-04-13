@@ -1,5 +1,5 @@
 # Welcome to the EventStoreDB's "From Scratch" series   
-# <code style="color : green">.NET edition</code>
+# <code style="color : green">Java edition</code>
 
 Cook up your own tasty recipes by following the following examples in the "FromScratch" series:
 1. .NET
