@@ -4,6 +4,7 @@
 #https://github.com/github/gitignore/blob/main/Java.gitignore
 # maven
 target/
+.DS_Store # Mac artifact from finder use on directory
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
